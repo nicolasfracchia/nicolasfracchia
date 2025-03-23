@@ -86,9 +86,7 @@ Communication · Leadership · Problem-solving · Resource Management · Analyti
 - Developed responsive UI components using ReactJS and NextJS, integrating RESTful APIs.
 - Built a CMS with JWT authentication, enabling dynamic content management and client usability.
 - Combined Server-Side Rendering (SSR) and Client-Side Rendering (CSR) to optimize UX and SEO.
-- Created REST APIs with Node.js, NestJS, and Prisma ORM, managing PostgreSQL databases.
 - Collaborated with multicultural Agile teams, actively participating in Scrum ceremonies.
-- Set up CI/CD pipelines using Docker and GitHub Actions, ensuring seamless deployment.  
 
 </details>  
 
