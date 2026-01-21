@@ -1,201 +1,218 @@
-<h1 align="center">👋 Hi, I'm Nicolas Fracchia</h1>
-
-<p align="center">
-  Full Stack Software Developer
-  <br/>
-  Calgary, AB, Canada · Open to Opportunities
-</p>
+<h1 align="center">👋 Nicolas Fracchia</h1>
+<h3 align="center">Senior Full Stack Software Developer</h3>
+<p align="center">Calgary, AB, Canada · Open to New Opportunities</p>
 
 ---
 
 <details open>
-    <summary> <h3>🧠 Summary</h3> </summary>
+<summary><strong>🧠 SUMMARY</strong></summary>
 
-Strategic and goal-oriented Full Stack Software Developer with 15+ years of experience. I blend technical expertise with business acumen, leveraging my entrepreneurial background to deliver robust, scalable, and customer-centric solutions. I thrive in collaborative environments, proactively anticipate challenges, and optimize processes through thoughtful analysis and communication.
+Senior Full-Stack Software Developer with 14+ years of experience designing, building, deploying, and maintaining scalable backend systems, APIs, and web and mobile applications across startups, agencies, and enterprise environments. Strong background in backend architecture, data modeling, authentication and access control, and end-to-end system ownership.  
 
-> **Soft Skills:**  
-Communication · Leadership · Problem-solving · Resource Management · Analytical Reporting · Agile Collaboration · Growth Mindset
-
-</details>
-
----
-
-<details open>
-    <summary> <h3>💻 Key Skills</h3> </summary>
-
-- **Backend Development:** Python · FastAPI · Node.js · NestJS · PHP · RESTful APIs · JWT (JSON Web Tokens) · Secure authentication & access control · Keycloak · Server-Side Rendering (SSR) / Client-Side Rendering (CSR)  
-- **Databases & ORM:** PostgreSQL · SQLAlchemy · Alembic · Prisma · Sequelize · Doctrine · Eloquent · MySQL · Database modeling and performance optimization
-- **DevOps & Cloud:** Docker · GitHub Actions · Nginx · Linux VPS configuration · Domain setup · CI/CD pipeline creation
-- **Authentication & Security:** JWT · Keycloak · OAuth · SOC2 & ISO 27001 Considerations  
-- **Mobile Development:** React Native · IONIC · Hybrid mobile applications · Play Store & App Store deployment
-- **Frameworks:** FastAPI · NestJS · ReactJS / React Native · Next.js · ExpressJS · Symfony · Laravel
-- **Frontend Development:** React · Next.js · HTML5 · CSS3 · JavaScript · Tailwind CSS · SEO · Schema Marckup  
-
+Known for clear communication, cross-functional collaboration, and the ability to translate business and product requirements into robust technical solutions. Brings an entrepreneurial mindset, architectural judgment, and a proactive approach to identifying performance, scalability, and security risks early in the development lifecycle. Experienced in balancing rapid delivery with long-term maintainability in production systems.
 </details>
 
 ---
 
 <details>
-    <summary> <h3>💼 Work Experience</h3> </summary>
+<summary><strong>💻 KEY SKILLS</strong></summary>
 
-#### 🔸 **Full-Stack Software Developer | Part-time | Y-Swipe**
-###### Calgary, AB, Canada | December 2024 – Present
+### Backend & APIs
+Python, FastAPI, Node.js, NestJS, PHP, RESTful APIs, API design & versioning, JWT, secure authentication & authorization, Keycloak, SSR / CSR strategies  
+
+### Databases & Data Modeling
+PostgreSQL, MySQL, SQLAlchemy, Alembic, Prisma, Sequelize, Doctrine, Eloquent, schema design, migrations, performance optimization, data integrity  
+
+### DevOps & Infrastructure
+Docker, GitHub Actions (CI/CD), Linux VPS configuration, Nginx, domain & DNS setup, deployment automation, environment management  
+
+### Frontend & Web
+React, Next.js, JavaScript, HTML, CSS, AJAX, Tailwind, Bootstrap, PWAs, SEO optimization, Schema Markup  
+
+### Mobile Development
+React Native, Ionic, hybrid mobile applications, Play Store & App Store deployment  
+
+### Collaboration & Delivery
+Git (GitHub, GitLab), Jira, Scrum / Agile workflows, cross-functional collaboration, stakeholder communication, technical documentation  
+
+### Frameworks & Platforms
+FastAPI, NestJS, React / React Native, Next.js, Express, Symfony, Laravel, WordPress  
+</details>
+
+---
+
 <details>
-    <summary>Experience details:</summary>
+<summary><strong>💼 WORK EXPERIENCE</strong></summary>
 
-- Developing and maintaining a high-performance API for Y-Swipe using Python, FastAPI, SQLAlchemy ORM and Alembic for migrations, and PostgreSQL.
-- Implementing secure authentication and access control mechanisms using Keycloak.
-- Containerizing backend services using Docker to streamline development and deployment workflows.
-- Analyzing business requirements to design scalable data models and ensure long-term platform adaptability.
-- Optimizing backend architecture for performance, maintainability, and scalability.
-- Collaborating with product and engineering teams to align development efforts with business goals.
-- Contributing to the platform's security strategy, with considerations for SOC2 and ISO 27001 compliance.
-- Participating in sprint planning, standups, and retrospectives within a Scrum framework using Jira.
-- Coordinating with frontend developers and other stakeholders in a cross-functional team environment.
-- Proactively identifying opportunities for technical and process improvements to support product growth.  
+### Full-Stack Software Developer (Backend-Focused) | Part-time  
+**Y-Swipe – Calgary, AB, Canada**  
+*January 2025 – Present*
 
-</details>  
+Primary backend engineer for a production SaaS platform, owning API architecture, data modeling, authentication, real-time integrations, and long-term scalability.
 
-> ###### _**Tech Stack:**  Python · FastAPI · SQLAlchemy ORM · Alembic (migrations) · PostgreSQL · Docker · Keycloak · Jira · Scrum_
+- Designed and maintained a high-performance backend using Python, FastAPI, PostgreSQL, SQLAlchemy, and Alembic  
+- Owned architectural decisions balancing performance, maintainability, and extensibility  
+- Implemented secure authentication and RBAC using Keycloak  
+- Defined API standards, conventions, and backend documentation  
+- Designed scalable data models aligned with business and product needs  
+- Containerized services with Docker and standardized deployment workflows  
+- Identified scalability, performance, and security risks early  
+- Contributed to security strategy aligned with SOC 2 and ISO 27001 considerations  
 
-#### 🔸 **Full-Stack Software Developer | Short-term contract | Communet**
-###### Calgary, AB, Canada | December 2024 – March 2025
-<details>
-    <summary>Experience details:</summary>
+**Real-time & AI-driven features**
+- Integrated LiveKit for real-time audio/video communication  
+- Integrated Beyond Presence for AI avatars and live conversational experiences  
+- Designed STT/TTS backend pipelines and real-time session lifecycle management  
+- Addressed latency, synchronization, and reliability challenges  
 
-- Designed and developed a RESTful API for a networking and community platform using NestJS, Prisma ORM, and PostgreSQL.
-- Implemented secure user authentication and authorization using JWT.
-- Integrated backend services seamlessly into a Next.js frontend application, ensuring smooth data flow and consistency.
-- Developed and maintained a CI/CD pipeline with GitHub Actions to automate deployment workflows for both frontend and backend projects.
-- Configured and optimized a Linux-based VPS server, deploying the platform using Nginx for efficient hosting.
-- Managed domain configuration in GoDaddy, linking custom domains to the VPS server.
-- Conducted database modeling and performance optimization to support scalable platform features.
-- Ensured code quality and maintainability by applying clean architecture principles and modular design patterns.
-- Collaborated in a cross-functional Scrum team, participating in sprint planning, code reviews, and daily standups.
-- Delivered production-ready software under tight deadlines.  
+**Collaboration & delivery**
+- Backend point of reference for frontend, product, and stakeholders  
+- Active contributor in Scrum ceremonies using Jira  
 
-</details>  
+**Tech Stack:** Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker, Keycloak, LiveKit, Beyond Presence, STT/TTS, Jira, Scrum  
 
-> ###### _**Tech Stack:**  NestJS · Prisma ORM · PostgreSQL · JWT · Next.js · GitHub Actions (CI/CD) · Nginx · Linux VPS · GoDaddy · Scrum_
+---
 
-#### 🔸 **Full-Stack Software Developer | PathwayPro**
-###### Calgary, AB, Canada | September 2024 – November 2024
-<details>
-    <summary>Experience details:</summary>
+### Full-Stack Software Developer | Short-term Contract  
+**Communet – Calgary, AB, Canada**  
+*December 2024 – March 2025*
 
-- Developed responsive UI components using ReactJS and NextJS, integrating RESTful APIs.
-- Built a CMS with JWT authentication, enabling dynamic content management and client usability.
-- Combined Server-Side Rendering (SSR) and Client-Side Rendering (CSR) to optimize UX and SEO.
-- Collaborated with multicultural Agile teams, actively participating in Scrum ceremonies.
+Delivered a full-stack platform from API design to production under tight timelines.
 
-</details>  
+- Designed RESTful APIs using NestJS, Prisma, and PostgreSQL  
+- Implemented JWT-based authentication and authorization  
+- Integrated backend services with a Next.js frontend  
+- Built CI/CD pipelines using GitHub Actions  
+- Configured Linux VPS deployments with Nginx  
+- Managed domain and DNS configuration  
+- Applied clean architecture and modular design principles  
+- Supported post-deployment fixes and iterative improvements  
 
-> ###### _**Tech Stack:** ReactJS · NextJS · Node.js · NestJS · Prisma ORM · PostgreSQL · JWT · Docker · GitHub Actions · Scrum_
+**Tech Stack:** NestJS, Prisma, PostgreSQL, JWT, Next.js, GitHub Actions, Nginx, Linux VPS, Scrum  
 
-#### 🔸 **Full-Stack Developer | Independent Contractor**
-###### Calgary, AB & Buenos Aires, Argentina | August 2019 – August 2023
-<details>
-    <summary>Experience details:</summary>
+---
 
-- Designed and developed custom Progressive Web Apps (PWAs) and responsive websites for diverse clients.
-- Implemented and optimized RESTful APIs to enhance backend service interactions.
-- Built hybrid mobile applications using React Native, deployed on both Google Play and App Store.
-- Developed stock management and shipment tracking solutions for a sublimation factory, synchronizing with e-commerce platforms.
-- Created and maintained specialized CMS solutions for journalists in various industries.  
+### Full-Stack Software Developer  
+**PathwayPro – Calgary, AB, Canada**  
+*September 2024 – November 2024*
 
-</details>  
+- Built responsive UI components with React and Next.js  
+- Developed a CMS with JWT-based authentication  
+- Implemented hybrid SSR/CSR strategies for SEO and performance  
+- Collaborated with backend teams on API integration  
+- Participated in Agile/Scrum ceremonies  
 
-> ###### _**Tech Stack:** React Native · JavaScript · HTML/CSS · REST APIs · PostgreSQL · WordPress · CMS tools · PWA_
+**Tech Stack:** React, Next.js, Node.js, JWT, Tailwind, GitHub Actions, Scrum  
 
-#### 🔸 **Co-founder & Full-Stack Software Developer | Proweb Solutions**
-###### Buenos Aires, Argentina | January 2018 – August 2019
-<details>
-    <summary>Experience details:</summary>
+---
 
-- Managed client requirements and collaborated with the design team to deliver intuitive web and mobile solutions.
-- Created responsive websites and mobile apps, deployed to the Play Store and App Store.
-- Developed internal tools, including CMS, intranets, and extranets, integrating Google and third-party APIs.
-- Educated clients with diverse technical knowledge on product use and maintenance.
-- Led meetings to present technical solutions and roadmaps to stakeholders.  
+### Full-Stack Developer | Independent Contractor  
+**Calgary, AB, Canada & Buenos Aires, Argentina**  
+*August 2019 – August 2023*
 
-</details>  
+- Delivered end-to-end web, mobile, and API solutions for multiple clients  
+- Built PWAs, RESTful APIs, and React Native mobile apps  
+- Developed inventory management and logistics systems  
+- Built custom CMS platforms for content-driven businesses  
+- Managed projects from requirements through deployment and support  
+- Advised clients on technical feasibility and long-term maintenance  
 
-> ###### _**Tech Stack:**  JavaScript · HTML/CSS · React Native · Google APIs · CMS · Play Store & App Store deployment_
+**Tech Stack:** React Native, JavaScript, HTML/CSS, PostgreSQL, REST APIs, WordPress, PWA  
 
-#### 🔸 **Senior Full-Stack Software Developer | BDT Global SRL/Ltd.**
-###### Buenos Aires, Argentina | November 2014 – May 2019
-<details>
-    <summary>Experience details:</summary>
+---
 
-- Engineered enterprise applications for insurance, public energy, and healthcare sectors using JavaScript, PHP, and Node.js.
-- Improved processing speeds and reporting systems for internal applications.
-- Designed integrated systems for insurance companies, enhancing CMS capabilities for claims processing.
-- Built mobile apps and web solutions tailored to enterprise requirements.
-- Mentored new team members, ensuring high-quality software development practices.  
+### Co-founder & Full-Stack Software Developer  
+**Proweb Solutions – Buenos Aires, Argentina**  
+*January 2018 – August 2019*
 
-</details>  
+- Defined technical roadmaps and delivery timelines  
+- Led architectural decisions across web and mobile projects  
+- Delivered production applications to app stores  
+- Built internal CMS, intranets, and extranets  
+- Mentored junior developers and led technical discussions  
 
-> ###### _**Tech Stack:** JavaScript · PHP · Node.js · MySQL · Enterprise CMS · Mobile App Development_
+**Tech Stack:** JavaScript, HTML/CSS, React Native, Google APIs, CMS platforms  
 
-#### 🔸 **Intermediate Full-Stack Software Developer | DOMO Solutions SRL/Ltd.**
-###### Buenos Aires, Argentina | November 2011 – July 2014
-<details>
-    <summary>Experience details:</summary>
+---
 
-- Developed custom full-stack CMS solutions using HTML, CSS, JavaScript, AJAX, and MySQL.
-- Integrated SOAP web services for government websites, ensuring secure data exchange.
-- Utilized frameworks like Zen Framework, Drupal, and WordPress for diverse client projects.
-- Collaborated with clients to enhance system functionalities and address unique requirements.  
+### Senior Full-Stack Software Developer  
+**BDT Global SRL/Ltd. – Buenos Aires, Argentina**  
+*November 2014 – May 2019*
 
-</details>  
+- Built enterprise systems for insurance, energy, and healthcare sectors  
+- Developed CMS-driven claims and reporting platforms  
+- Improved performance and internal tooling  
+- Mentored junior developers in enterprise environments  
 
-> ###### _**Tech Stack:** HTML · CSS · JavaScript · AJAX · MySQL · SOAP Web Services · Zend Framework · Drupal · WordPress_
+**Tech Stack:** JavaScript, PHP, Node.js, MySQL, Enterprise CMS  
+
+---
+
+### Intermediate Full-Stack Software Developer  
+**DOMO Solutions SRL/Ltd. – Buenos Aires, Argentina**  
+*November 2011 – July 2014*
+
+- Developed CMS platforms and government-integrated systems  
+- Integrated SOAP web services  
+- Maintained and extended legacy production systems  
+- Worked directly with clients under regulatory constraints  
+
+**Tech Stack:** HTML, CSS, JavaScript, AJAX, MySQL, SOAP, Zend Framework, Drupal, WordPress  
 
 </details>
 
 ---
 
 <details>
-    <summary> <h3>🎓 Education</h3> </summary>
+<summary><strong>🎓 EDUCATION</strong></summary>
 
-**Full-Stack Software developer Bootcamp (intensive)**  
-_University of Calgary, CA, AB (Robo Garden) | September 2023 to March 2024_
+- **Full-Stack Software Developer Bootcamp (Intensive)**  
+  University of Calgary (Robo Garden), Calgary, AB  
+  *September 2023 – March 2024*
 
-**Course in React – Hooks, Router, Redux, NextJS**  
-_Distance learning (Udemy) | January 2022 to March 2022_
+- **Course in React (Hooks, Router, Redux, Next.js)**  
+  Udemy  
+  *January 2022 – March 2022*
 
-**Course in Mobile App Development with React Native**  
-_distance learning (edX - Harvard University) | January 2020 to February 2020_
+- **Course in Mobile App Development with React Native**  
+  edX (Harvard University)  
+  *January 2020 – February 2020*
 
-**Course in Advanced JavaScript**  
-_IT Master Academy, Argentina | January 2015 to March 2015_  
+- **Course in Advanced JavaScript**  
+  IT Master Academy, Argentina  
+  *January 2015 – March 2015*
 
-**Course in PHP – Object-Oriented Programming**
-_Educacion IT, Argentina | January 2012 to January 2012_  
+- **Course in PHP – Object-Oriented Programming**  
+  Educación IT, Argentina  
+  *January 2012*
 
-**Certificate in Intermediate (B1) General English as a Foreign Language (exchange student)**
-_LAL Language Centres, Torquay, UK | January 2011 to February 2011_  
+- **Certificate in Intermediate (B1) English**  
+  LAL Language Centres, Torquay, UK  
+  *January 2011 – February 2011*
 
-**Certificate in Web Development**  
-_A.U.B.A, Argentina | January 2010 to October 2010_  
-
-</details>
-
----
-
-<details open>
-    <summary> <h3>🌐 Languages</h3> </summary>
-
-- 🇪🇸 Spanish: Native  
-- 🇬🇧 English: Advanced 
+- **Certificate in Web Development**  
+  A.U.B.A, Argentina  
+  *January 2010 – October 2010*
 
 </details>
 
 ---
 
-### ✨ Let's Connect!
+<details>
+<summary><strong>🌐 LANGUAGES</strong></summary>
 
-If you're looking for a passionate, experienced, and thoughtful developer to join your team or collaborate on meaningful projects — let’s chat!
+- Spanish: Native  
+- English: Advanced  
+
+</details>
+
+---
+
+## ✨ Let's Connect!
+
+If you're looking for a passionate, experienced, and thoughtful developer to join your team or collaborate on meaningful projects - let’s chat!
+
+<br />
 
 [<img src="LinkedIn.png" height="40">](https://linkedin.com/in/nicolasfracchia)
 
