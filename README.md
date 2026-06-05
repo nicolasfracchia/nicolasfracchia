@@ -218,8 +218,6 @@ If you're looking for a passionate, experienced, and thoughtful developer to joi
 
 ---
 
-<p align="center">
-  <img src="github-metrics.svg" alt="Recently used languages" />
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfracchia&layout=compact&langs_count=12)](https://github.com/nicolasfracchia)
 
 ---
