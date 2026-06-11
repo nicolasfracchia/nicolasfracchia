@@ -217,9 +217,9 @@ If you're looking for a passionate, experienced, and thoughtful developer to joi
 [<img src="LinkedIn.png" height="40">](https://linkedin.com/in/nicolasfracchia)
 
 ---
-
+<!--
 <p align="center">
   <img src="github-metrics.svg" alt="Recently used languages" />
 </p>
-
+-->
 ---
