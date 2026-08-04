@@ -3,7 +3,7 @@ on:
   schedule: [{cron: "0 0 * * 1"}]   # Weekly, Mondays 00:00 UTC
   workflow_dispatch:
 
-# No `push` trigger on purpose: the action commits the SVGs back to this repo,
+# No `push` trigger on purpose: the action commits the SVG back to this repo,
 # which would re-trigger the workflow in a loop.
 
 jobs:
@@ -15,32 +15,12 @@ jobs:
       contents: write
 
     steps:
-      # ── Overview card ────────────────────────────────────────────────
-      - name: Overview
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.PRIVATE_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}   # commit as the bot so pushes don't trigger workflows
-          committer_message: "chore: update ${filename} [skip ci]"
-
-          filename: github-metrics.svg
-          config_output: svg
-          config_timezone: America/Edmonton
-          retries_output_action: 5
-
-          base: header, activity, community, repositories
-          repositories: 100
-          repositories_skipped: ${{ secrets.REPOS_TO_SKIP }}
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
       # ── Most-used languages card ─────────────────────────────────────
       - name: Languages
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.PRIVATE_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}   # commit as the bot so pushes don't trigger workflows
           committer_message: "chore: update ${filename} [skip ci]"
 
           filename: github-metrics-languages.svg
