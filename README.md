@@ -66,10 +66,7 @@ integration test suite.
 `FastAPI` · `PostgreSQL` · `Celery` · `Redis` · `Docker` · `LLM guardrails`
 
 ### ⚖️ [RTDRS Hearing Assistant](https://github.com/nicolasfracchia/local-assistant-rag)
-A **fully on-device** real-time legal-hearing copilot. Transcribes and separates
-speakers live, retrieves relevant excerpts from Alberta tenancy legislation via
-hybrid RAG, and streams structured coaching from a local LLM — **no audio,
-transcript, or case data ever leaves the machine.**
+A **fully on-device** real-time assistant for rehearsing an Alberta tenancy hearing. Transcribes practice sessions in real time with speaker separation, retrieves relevant legislation through hybrid RAG (pgvector + RRF), and streams structured coaching from a local LLM. — **no audio, transcript, or case data ever leaves the machine.**
 `faster-whisper` · `pyannote` · `Ollama` · `pgvector` (hybrid RRF) · `WebSockets`
 
 ### 🛰 [Emissions Analytics Engine](https://github.com/nicolasfracchia/highwood-engineering-challenge)
